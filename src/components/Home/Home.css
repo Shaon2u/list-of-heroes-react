@@ -1,0 +1,18 @@
+.home-container{
+    display: flex;
+}
+
+.profile-container{
+    width:  70%;
+    margin-left: 5%;
+    margin: 40px;
+    padding: 20px;
+}
+
+.summary-container{
+    width: 25%;
+    padding-left: 5%;
+    padding-top: 5%;
+    background-color: #5abd86 ;
+}
+

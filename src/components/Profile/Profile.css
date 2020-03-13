@@ -1,0 +1,28 @@
+.pro-container {
+    display: inline-flex;
+    border-bottom: 1px solid lightgray;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+    box-shadow: 2px 2px 5px solid gray;
+}
+.profile-name {
+    color: #1a2550;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+
+.hire-me-btn {
+    background-color: #5abd86;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+span {
+    font-size: medium;
+    font-weight: bold;
+}
